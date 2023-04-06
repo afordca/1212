@@ -1,0 +1,18 @@
+h2 {
+	font-size: 60px;
+	color: #17213A;
+}
+
+body {
+	max-width:1200px;
+	background: #E5E5E5;
+}
+
+.container {
+	margin: auto;
+	max-width:800px;	
+}
+
+p {
+	color: #EFA73D;
+}
